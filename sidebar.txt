@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acz:home|Door43 (acz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acz|d43-acz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acz/archive/master.zip|d43-acz.zip]]
+
+**Recent Changes**
+{{changes>ns = acz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acz|Ethnologue data]]
+
